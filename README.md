@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Hakk%C4%B1%20K%C4%B1vrak&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineer%20%7C%20AI%20%26%20Data%20Enthusiast&descSize=18&descAlignY=55" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&pause=1000&color=2A5298&center=true&vCenter=true&width=500&repeat=false&lines=Hakk%C4%B1+K%C4%B1vrak" alt="Name Typing SVG" />
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2A5298&center=true&vCenter=true&width=500&lines=AI+%26+Machine+Learning;Data+Science+%26+Data+Analysis;Always+Learning+Engineer" alt="Typing SVG" />
 </div>
 <br>

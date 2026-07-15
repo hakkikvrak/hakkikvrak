@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=32&pause=1000&color=2A5298&center=true&vCenter=true&width=500&repeat=false&lines=Hakk%C4%B1+K%C4%B1vrak" alt="Name Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=24&pause=1000&color=F7B32B&center=true&vCenter=true&width=500&repeat=false&lines=Hakk%C4%B1+K%C4%B1vrak" alt="Name Typing SVG" />
 <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=22&pause=1000&color=2A5298&center=true&vCenter=true&width=500&lines=AI+%26+Machine+Learning;Data+Science+%26+Data+Analysis;Always+Learning+Engineer" alt="Typing SVG" />
 </div>
 <br>
@@ -12,5 +12,4 @@ I don't consider myself an expert yet, but I'm deeply curious and always learnin
 
 <div align="center">
 <i>"Data tells a story to those who ask the right questions."</i>
-</div>
-
+</div>See task progress for longer tasks.hakkimda.mdTrack tools and referenced files used in this task.

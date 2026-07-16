@@ -1,4 +1,4 @@
-div align="center">
+<div align="center">
 <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=24&pause=1000&color=808080&center=true&vCenter=true&width=500&repeat=false&lines=Hakk%C4%B1+K%C4%B1vrak" alt="Name Typing SVG" />
 <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=14&pause=1000&color=F7B32B&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning;Data+Science+%26+Data+Analysis;Always+Learning+Engineer" alt="Typing SVG" />
 </div>

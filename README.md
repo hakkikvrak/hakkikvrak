@@ -10,7 +10,7 @@ Hey, I'm Hakkı! I'm a computer engineering student based in Türkiye. Whenever 
 I don't consider myself an expert yet, but I'm deeply curious and always learning — most of my time goes into researching and experimenting with <b>machine learning</b>, <b>data science</b>, <b>data analysis</b>, and <b>artificial intelligence</b> (especially AI agents).
 </p>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakkikvrak&layout=donut&theme=tokyonight&hide_border=true" width="380" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hakkikvrak&theme=tokyonight" width="380" alt="Top Languages" />
 </div>
 <br>
 <div align="center">
@@ -20,7 +20,7 @@ I don't consider myself an expert yet, but I'm deeply curious and always learnin
 &nbsp;
 <a href="https://instagram.com/hakkikvrak"><img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=hakkikvrak&color=blueviolet&style=for-the-badge&label=%20" alt="Profile views" />
+<img src="https://hits.sh/github.com/hakkikvrak.svg?style=for-the-badge&label=%20&labelColor=8A2BE2&color=8A2BE2" alt="Profile views" />
 </div>
 <br>
 <div align="center">

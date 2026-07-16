@@ -14,11 +14,11 @@ I don't consider myself an expert yet, but I'm deeply curious and always learnin
 </div>
 
 <div align="center">
-<a href="mailto:hakkikvrak@gmail.com"><img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/hakkikvrak"><img src="https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/hakkikvrak"><img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="mailto:hakkikvrak@gmail.com"><img width="50" src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/hakkikvrak"><img width="50" src="https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/hakkikvrak"><img width="50" src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   
-<img src="https://komarev.com/ghpvc/?username=hakkikvrak&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=hakkikvrak&color=blueviolet&style=for-the-badge&label="/>
 
 </div>
 <br>

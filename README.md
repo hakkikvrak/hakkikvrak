@@ -1,4 +1,4 @@
-<div align="center">
+div align="center">
 <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=24&pause=1000&color=808080&center=true&vCenter=true&width=500&repeat=false&lines=Hakk%C4%B1+K%C4%B1vrak" alt="Name Typing SVG" />
 <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=14&pause=1000&color=F7B32B&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning;Data+Science+%26+Data+Analysis;Always+Learning+Engineer" alt="Typing SVG" />
 </div>
@@ -14,9 +14,9 @@ I don't consider myself an expert yet, but I'm deeply curious and always learnin
 </div>
 
 <div align="center">
-<a href="mailto:hakkikvrak@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/KULLANICI_ADIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/KULLANICI_ADIN"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="mailto:hakkikvrak@gmail.com"><img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/hakkikvrak"><img src="https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/hakkikvrak"><img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   
 <img src="https://komarev.com/ghpvc/?username=hakkikvrak&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS"/>
 

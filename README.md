@@ -10,16 +10,12 @@ I don't consider myself an expert yet, but I'm deeply curious and always learnin
 </p>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakkikvrak&layout=pie&theme=tokyonight&hide_border=true" width="450"/>
-</div>
-
-<div align="center">
-<a href="https://www.linkedin.com/in/hakkikvrak"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://instagram.com/hakkikvrak"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-<a href="mailto:hakkikvrak@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-
+<i>"Data tells a story to those who ask the right questions."</i>
 </div>
 <br>
 <div align="center">
-<i>"Data tells a story to those who ask the right questions."</i>
+<a href="https://www.linkedin.com/in/hakkikvrak"><img width="48" height="48" src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://instagram.com/hakkikvrak"><img width="48" height="48" src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="mailto:hakkikvrak@gmail.com"><img width="48" height="48" src="https://skillicons.dev/icons?i=gmail" /></a>
+
 </div>

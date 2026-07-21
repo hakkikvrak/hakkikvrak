@@ -1,12 +1,12 @@
 <div align="center">
 <table width="100%" style="background: transparent; border: none;">
 <tr>
-<!-- SOL TARAF: RESMİN -->
-<td width="30%" align="center" valign="middle" style="border: none;">
-<img src="https://github.com/user-attachments/assets/ac4e7acd-21ea-4851-ab81-bc52ba15628c" alt="Profil Resmim" width="100%" style="border-radius: 15px; max-width: 250px;" />
+<!-- SOL TARAF: KILLUA HOLOGRAMI -->
+<td width="35%" align="center" valign="middle" style="border: none;">
+<img src="https://raw.githubusercontent.com/hakkikvrak/hakkikvrak/main/killua_hologram.svg" alt="Killua Hologram Face" width="100%" />
 </td>
 <!-- SAĞ TARAF: YAZILARIN VE İKONLARIN -->
-<td width="70%" align="center" valign="middle" style="border: none;">
+<td width="65%" align="center" valign="middle" style="border: none;">
 <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=20&pause=1000&color=808080&center=true&vCenter=true&width=500&repeat=false&lines=Hakk%C4%B1+K%C4%B1vrak" alt="Name Typing SVG" style="max-width: 100%; width: 100%; height: auto;" />
 <br>
 <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=11&pause=1000&color=F7B32B&center=true&vCenter=true&width=500&lines=AI+%26+Machine+Learning;Data+Science+%26+Data+Analysis;Always+Learning+Engineer" alt="Typing SVG" style="max-width: 100%; width: 100%; height: auto;" />

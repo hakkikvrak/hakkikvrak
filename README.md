@@ -1,15 +1,15 @@
 <div align="center">
 <table width="100%" style="background: transparent; border: none;">
 <tr>
-<!-- SOL TARAF: HOLOGRAM -->
+<!-- SOL TARAF: RESMİN -->
 <td width="35%" align="center" style="border: none;">
-<img src="https://raw.githubusercontent.com/hakkikvrak/hakkikvrak/main/hologram.svg" alt="Hologram Face" width="100%" />
+<img src="https://github.com/user-attachments/assets/ac4e7acd-21ea-4851-ab81-bc52ba15628c" alt="Profil Resmim" width="100%" style="border-radius: 15px;" />
 </td>
 <!-- SAĞ TARAF: YAZILARIN VE İKONLARIN -->
 <td width="65%" align="center" style="border: none;">
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=20&pause=1000&color=808080&center=true&vCenter=true&width=400&repeat=false&lines=Hakk%C4%B1+K%C4%B1vrak" alt="Name Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=18&pause=1000&color=808080&center=true&vCenter=true&width=500&repeat=false&lines=Hakk%C4%B1+K%C4%B1vrak" alt="Name Typing SVG" style="max-width: 100%;" />
 <br>
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=11&pause=1000&color=F7B32B&center=true&vCenter=true&width=450&lines=AI+%26+Machine+Learning;Data+Science+%26+Data+Analysis;Always+Learning+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=11&pause=1000&color=F7B32B&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning;Data+Science+%26+Data+Analysis;Always+Learning+Engineer" alt="Typing SVG" style="max-width: 100%;" />
 <br><br>
 <p align="center" style="font-size: 14px;">
 Hey, I'm Hakkı! I'm a computer engineering student based in Türkiye. Whenever an idea pops into my head, I can't help but try to design, build, and ship it.
